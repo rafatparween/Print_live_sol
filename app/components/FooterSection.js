@@ -113,7 +113,7 @@ const FooterSection = () => {
       </div> */}
       <div className="border-t border-gray-600 py-4 text-center">
         <p className="text-[17px] text-gray-400">
-        © Copyright, All Rights Reserved by Printercaretech
+        © Copyright, All Rights Reserved by printlivesol
         </p>
       </div>
     </footer>
